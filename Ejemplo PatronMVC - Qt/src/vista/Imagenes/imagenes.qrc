@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="src/vista/Imagenes/">
+    <file>registro.png</file>
+  </qresource>
+</RCC>
